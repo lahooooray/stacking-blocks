@@ -8,9 +8,10 @@ A self-explanatory name for the game where you stack falling blocks.
 </tr></table>
 The <u>goal</u> of this game is to stack the blocks on top of each other so that the borderline of the latest block will not surpass the center of the previous one. 
 
-<b>USER MANUAL</b>
+<p><b>USER MANUAL</b>
 <u>Rotate</u> the <b>GREEN</b> KNOB to switch between options in the MENU.
 <u>Press</u> the <b>GREEN</b> KNOB to choose an option.
+</p>
 
 <b>1 player</b>:
 - Rotate the <b>GREEN</b> KNOB to move the falling knob.
@@ -21,9 +22,9 @@ The <u>goal</u> of this game is to stack the blocks on top of each other so that
 - Press the <b>RED</b> and <b>BLUE</b> KNOBS (respectively, for each player) to make the block fall faster.
 
 <b>THEME CHANGE:</b>
+Switch between <b>BLACK</b> and <b>PINK</b> themes.
 <table><tr>
-  <td>Switch between <b>BLACK</b> and <b>PINK</b> themes.
-    <img src="images/menu_pink.png" alt="black menu" width="345"/>
+  <td><img src="images/menu_pink.png" alt="black menu" width="345"/>
   </td>
   <td><img src="images/game_pink.png" alt="black game mode" width="345"/></td>
 </tr></table>
