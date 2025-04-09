@@ -7,16 +7,15 @@ A self-explanatory name for the game where you stack falling blocks.
   <td><img src="images/game_black.png" alt="black game mode" width="345"/></td>
 </tr></table>
 The <u>goal</u> of this game is to stack the blocks on top of each other so that the borderline of the latest block will not surpass the center of the previous one. 
-
+<br>
 <p><b>USER MANUAL</b></p>
 - <u>Rotate</u> the <b>GREEN</b> KNOB to switch between options in the MENU.
 - <u>Press</u> the <b>GREEN</b> KNOB to choose an option.
-
-<p><b>1 player</b>:</p>
+<br>
+<b>1 player</b>:
 - Rotate the <b>GREEN</b> KNOB to move the falling knob.
 - Press the <b>GREEN</b> KNOB to make the block fall faster.
-
-<p><b>2 players</b>:</p>
+<br><b>2 players</b>:
 - Rotate the <b>RED</b> and <b>BLUE</b> KNOBS (respectively, for each player) to move the falling block.
 - Press the <b>RED</b> and <b>BLUE</b> KNOBS (respectively, for each player) to make the block fall faster.
 
